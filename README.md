@@ -1,5 +1,7 @@
 # Atom syntax highlighting for Commodore BASIC 2.0
 
+Colorful BASIC code for the Atom editor. Visit the homepage for the [language-cbmbasic package](https://atom.io/packages/language-cbmbasic) here, or download from directly within Atom and get started on your next text adventure game within minutes.
+
 Isn't it about time we had modern language support for the classic programming language of the Commodore 64? Obviously, the lack of this feature in most text editors today has been the principal obstacle to Gen-X programmers revisiting their roots. You are now one step further along on your inevitable journey back to where it all began:
 
 `10 PRINT CHR$(205.5+RND(1)); : GOTO 10`

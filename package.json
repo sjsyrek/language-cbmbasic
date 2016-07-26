@@ -4,6 +4,7 @@
   "description": "Commodore 64 BASIC 2.0 language support in Atom",
   "author": "Steven J. Syrek <steven.syrek@gmail.com>",
   "license": "ISC",
+  "homepage": "https://atom.io/packages/language-cbmbasic",
   "repository": {
     "type": "git",
     "url": "https://github.com/sjsyrek/language-cbmbasic.git"
