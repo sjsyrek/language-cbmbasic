@@ -1,0 +1,28 @@
+{
+  "name": "language-cbmbasic",
+  "version": "0.0.0",
+  "description": "Commodore 64 BASIC 2.0 language support in Atom",
+  "author": "Steven J. Syrek <steven.syrek@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjsyrek/language-cbmbasic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sjsyrek/language-cbmbasic/issues"
+  },
+  "keywords": [
+    "Atom",
+    "package",
+    "language",
+    "basic",
+    "c-64",
+    "commodore",
+    "syntax",
+    "highlight"
+  ],
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {}
+}
